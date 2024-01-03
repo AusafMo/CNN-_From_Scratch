@@ -2,7 +2,7 @@
 Implementing CNN using python and numpy following this [blog](https://victorzhou.com/blog/intro-to-cnns-part-1/).
 
 ## Pointers:
-* [Xaviers Initilization](https://cs230.stanford.edu/section/4/) :
+* [Xaviers Initialization](https://cs230.stanford.edu/section/4/) :
 <br>
 
 `
